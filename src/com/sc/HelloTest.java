@@ -8,5 +8,6 @@ public class HelloTest {
         System.out.println("9:29");
 
         System.out.println("add comment");
+        System.out.println("add comment");
     }
 }
